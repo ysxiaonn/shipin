@@ -93,6 +93,10 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
@@ -121,14 +125,25 @@
 }
 .button {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 .box_21 {
 }
 .checkbox {
   text-align:left;
+}
+.html_button {
+  text-align:center;
 }
 .box_31 {
 }
 .box_11 {
 }
 ._默认样式 {
+}
+.box_12 {
+}
+.paragraph1 {
+  text-align:left;
 }
