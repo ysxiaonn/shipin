@@ -28,6 +28,15 @@
 }
 .table_cell {
 }
+._连接符 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 .iconfont {
   font-family:'iconfont Regular', 'iconfont';
   font-weight:400;
